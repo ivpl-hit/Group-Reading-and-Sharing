@@ -6,7 +6,7 @@ group picture
 ## Readings (Oct 12nd 2019 - Present )
 
 *Date* | *Description* | *Readings* | *Presenter*
--------- | :-----------:  | :-----------: | :-----------:
+-------- | :-----------:  | :-----------: | :-----------:|
 Oct 12nd 2019 | Graph Convolutional networks，GCN | x | 张永强 
 
 
