@@ -8,5 +8,5 @@ group picture
 *Date* | *Description* | *Readings* | *Presenter*
 -------- | :-----------:  | :-----------: | :-----------:|
 Oct 12nd 2019 | Graph Convolutional networks，GCN | [slider](/material/ppt/GCN_张永强.pptx) | 张永强 
-
+Oct 19th 2019 | domain adaption & Graph Convolutional networks(GCN) |[slider](/material/ppt/组会20191019.pptx) | 杨光磊
 
