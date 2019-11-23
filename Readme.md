@@ -12,3 +12,4 @@ Oct 19th 2019 | domain adaption & Graph Convolutional networks(GCN) |[slider](/m
 Oct 27th 2019 | knowledge distillation |[slider](/material/ppt/10、27组会.pptx) | 董娜
 Nov 2nd 2019 | Weakly Supervised Object Detection |[slider](/material/ppt/组会20191102.pptx) | 朱月熠
 Nov 16th 2019 | 基于暗原色理论的图像去雾方法研究 |[slider](/material/ppt/王莉娜(2).pptx) | 王莉娜
+Nov 23rd 2019 | 高光谱图像分类方法 |[slider](/material/ppt/高光谱图像分类.pptx) | 孙晨昕
