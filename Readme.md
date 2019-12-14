@@ -15,5 +15,6 @@ Nov 16th 2019 | 基于暗原色理论的图像去雾方法研究 |[slider](/mate
 Nov 23rd 2019 | 高光谱图像分类方法 |[slider](/material/ppt/高光谱图像分类.pptx) | 孙晨昕
 Nov 30th 2019 | Domain Adaptive Object Detection |[slider](/material/ppt/DA_Object_Detection_张永强.pptx) | 张永强 
 DEC 7th 2019 |  domain adaption summary |[slider](/material/ppt/组会20191207.pptx) | 杨光磊 
+DEC 14th 2019 | 3D object detection |[slider](/material/ppt/12.14组会.pptx) | 董娜
 
 
