@@ -17,4 +17,5 @@ Nov 30th 2019 | Domain Adaptive Object Detection |[slider](/material/ppt/DA_Obje
 DEC 7th 2019 |  domain adaption summary |[slider](/material/ppt/组会20191207.pptx) | 杨光磊 
 DEC 14th 2019 | 3D object detection |[slider](/material/ppt/12.14组会.pptx) | 董娜
 DEC 21th 2019 | 小样本学习&元学习 |[slider](/material/ppt/组会20191221.pptx) | 朱月熠
+OCT 4th 2020 | 弱监督目标检测 |[slider](/material/ppt/朱月熠-20201004.pptx)| 朱月熠
 OCT 18th 2020 | 杨光磊-博士中期答汇报 |[slider](/material/ppt/杨光磊-博士中期答汇报-20201018.ppt)| 杨光磊
